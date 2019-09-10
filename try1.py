@@ -6,11 +6,13 @@ import math
 
 # Total health pixels = 378
 full_health = 378
-# Health bar ends
+
+# Health bar end pixels
 player_health_full = (126, 749)
 player_health_zero = (126, 1126)
 enemy_health_full = (126, 1666)
 enemy_health_zero = (126, 1289)
+
 # Health bar pixel lists
 player_health_pixels = zip(378*[126], range(1126, 748))
 enemy_health_pixels = zip(378*[126], range(1289, 1667))
