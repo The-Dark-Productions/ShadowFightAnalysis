@@ -6,3 +6,5 @@ The game: [Shadow Fight 2](https://play.google.com/store/apps/details?id=com.nek
 Packages used:
 - Numpy
 - OpenCV
+
+The game is being played on a mobile of resolution 1080 X 2340 pixels.
